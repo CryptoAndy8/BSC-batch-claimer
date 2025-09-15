@@ -1,0 +1,14 @@
+{
+  "name": "bsc-batch-claimer",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/run.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.2",
+    "node-fetch": "3"
+  }
+}
