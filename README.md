@@ -31,3 +31,6 @@ Optional: PROOF_AUTH_HEADER, PROOF_COOKIE, PROOF_HEADERS_EXTRA
 (leave empty if the endpoint is public)
 
 Create keys.txt (one private key per line).
+
+Run
+npm start
